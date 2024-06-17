@@ -1,4 +1,3 @@
-<img src="https://imgur.com/XOS1Vdh.png"  width="150px" height="150px">
 
 # React | React Landing Page
 
@@ -12,28 +11,18 @@ We just learned the basics about creating a **Hello World** app in React, so we 
 
   
 
-![](https://imgur.com/YpUYrJF.png) 
 
   
 
 ## Requirements
 
-  
 
-- Don't Fork this repo
-
-- Don't Clone this repo
-
-  
 
 ## Submission
 
   
 
-- Upon completion, run the following commands:
-
-  
-
+- 
 ```
 
 git add .
